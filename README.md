@@ -1,4 +1,5 @@
 # Demonstrate Simput In Docker
+Attempt to demonstrate [ParFlow CONUS in Simput](https://github.com/kitware/simput/tree/f6d7365ea386ad8751448323c9cbedd2a485eb6c) in a Docker container for ease of setup.
 
 ## Prerequisites
 * Docker installed on host
